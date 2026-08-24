@@ -39,7 +39,7 @@ Ensure PHP version 8.0 or higher is installed and the following extensions are e
    - Download and unzip the project, or clone it using Git:
 
      ```bash
-     git clone https://github.com/abwow409/WoWSimpleRegistration-new
+     git clone https://github.com/abwow409/WoWSimpleRegistration-new12.x
      ```
 
 3. Install [Composer](https://getcomposer.org/download/).
