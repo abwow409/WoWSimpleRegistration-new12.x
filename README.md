@@ -42,11 +42,11 @@ Ensure PHP version 8.0 or higher is installed and the following extensions are e
      git clone https://github.com/abwow409/WoWSimpleRegistration-new12.x
      ```
 
-3. Install [Composer](https://getcomposer.org/download/).
+3. Install [Composer](https://getcomposer.org/download/). It can be omitted, as it has already been included in the document
 
 4. Navigate to the project directory and then go to the `application/` directory.
 
-5. Run the following command to install the required dependencies:
+5. Run the following command to install the required dependencies:  It can be omitted, as it has already been included in the document
 
    ```bash
    composer install
