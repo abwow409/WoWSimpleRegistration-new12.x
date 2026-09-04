@@ -34,7 +34,7 @@ $config['debug_mode'] = false; // Set to true to enable debug mode if you encoun
 // Server Information - Customize this with your server's specific details.
 $config['realmlist'] = '127.0.0.1'; // The Realmlist of your server.
 $config['patch_location'] = 'http://127.0.0.1/patch.mpq'; // URL to download the patch if available. Leave empty if not applicable.
-$config['game_version'] = '12.1 (69404)'; // The version of the game that your server is running.
+$config['game_version'] = '12.1.0(69497)'; // The version of the game that your server is running.
 
 /* Server Expansion Settings - Choose your server's expansion by setting the corresponding number.
 0 = Classic  (1.x)
